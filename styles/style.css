@@ -1,0 +1,41 @@
+html {
+  font-size: 10px;
+  font-family: 'Neucha', cursive;
+  background-color: #94F9B6;
+}
+h1 {
+	color: blue;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px;
+  padding: 0;
+  text-shadow: 5px 5px 2px black;
+}
+h2 {
+  font-size: 30px;
+}
+
+li {
+  font-size: 20px;    
+  line-height: 1;
+  letter-spacing: 1px;
+}
+p {
+  font-size: 20px;    
+  line-height: 0.3;
+  letter-spacing: 1px;
+}
+body {
+	width: 700px;
+  margin: 0px 300px;
+  background-color: #FF9500;
+  padding: 0px 20px 20px 20px;
+  border: 10px solid black;
+}
+img {
+  display: block;
+  margin: 0;
+}
+em {
+  font-size: 30px;    
+  letter-spacing: 1px;
